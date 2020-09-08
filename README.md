@@ -37,10 +37,10 @@ https://github.com/nzw9314/QuantumultX.git
 
 
 ②.⚠️适用于商店版1.05
-https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Js_Local_WorkingCopy_Cookie.conf   
+https://raw.githubusercontent.com/iam41xin/nzw9314/master/Js_Local_WorkingCopy_Cookie.conf   
 
 ③.⚠️适用于TF版195+
-https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Get_Cookie_New.conf    
+https://raw.githubusercontent.com/iam41xin/nzw9314/master/Get_Cookie_New.conf    
 
 
 (⚠️Cookie获取订阅,根据版本二选一。Cookie失效时启用，成功后禁用)
